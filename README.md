@@ -17,6 +17,6 @@ Files:
 
 - Clouds_sentinel.ipynb: Data from the Sentinel-2 satellite. Comparison of the amount of clouds between two regions.
 
-  &nbsp;   &nbsp;  &nbsp;<img src = "./Pictures/clouds1.png" width=250>&nbsp;  &nbsp;   &nbsp;<img src = "./Pictures/clouds2.png" width=250>  &nbsp;   &nbsp;  &nbsp;
+  &nbsp;   &nbsp;  &nbsp;<img src = "./Pictures/clouds1.png" width=350>&nbsp;  &nbsp;   &nbsp;<img src = "./Pictures/clouds2.png" width=350>  &nbsp;   &nbsp;  &nbsp;
 - Price forecast: Feature selection of a price tim
 e series (via the package tsfresh) and forecast models. 
