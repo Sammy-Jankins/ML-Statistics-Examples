@@ -9,7 +9,7 @@ Versions:
 
 Files:
 
-- price_plots_and_log_return_distributions.ipynb: Some plots of a price time series and analyze the distribution of the and the logarithmic returns ("log returns"). 
+- price_plots_and_log_return_distributions.ipynb: Some plots of a price time series and analysis of the distribution of the and the logarithmic returns ("log returns"). 
     
  Example of cryptocurrency prices (01 2019 - 05 2019): The power transformed positive (or negative) log returns follow a genlogistic distribution.
 
