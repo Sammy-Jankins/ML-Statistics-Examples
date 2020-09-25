@@ -19,7 +19,7 @@ Files:
 
   &nbsp;   &nbsp;  &nbsp;<img src = "./Pictures/clouds1.png" width=600>&nbsp;  &nbsp;   &nbsp;
   
-   &nbsp;   &nbsp;  &nbsp;<img src = "./Pictures/clouds2.png" width=600>&nbsp;  &nbsp;   &nbsp;
+   &nbsp;   &nbsp;  &nbsp;<img src = "./Pictures/clouds2.png" width=700>&nbsp;  &nbsp;   &nbsp;
 
 
 - feature_selection_example.ipynb: Feature selection of a time series (via the package tsfresh) and forecast models. 
