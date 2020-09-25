@@ -17,7 +17,7 @@ Files:
 
 - Clouds_sentinel.ipynb: Data from the Sentinel-2 satellite. Comparison of the amount of clouds between two regions.
 
-  &nbsp;   &nbsp;  &nbsp;<img src = "./Pictures/clouds1.png" width=350>&nbsp;  &nbsp;   &nbsp;<img src = "./Pictures/clouds2.png" width=350>  &nbsp;   &nbsp;  &nbsp;
+  &nbsp;   &nbsp;  &nbsp;<img src = "./Pictures/clouds1.png" width=500>&nbsp;  &nbsp;   &nbsp;
  
 ![Alt text](./Pictures/clouds2.png?raw=true "Title")
 
