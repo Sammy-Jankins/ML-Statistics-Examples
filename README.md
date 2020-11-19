@@ -9,6 +9,8 @@ Versions:
 
 Files:
 
+- Phoneme.ipynb: Classification of time series. Neuronal nets and random forests applied to the time and frequency domain respectively.
+
 - Clouds_sentinel.ipynb: Data from the Sentinel-2 satellite. Comparison of the amount of clouds between two regions.
 
   &nbsp;   &nbsp;  &nbsp;<img src = "./Pictures/clouds1.png" width=600>&nbsp;  &nbsp;   &nbsp;
