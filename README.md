@@ -9,7 +9,8 @@ Versions:
 
 Files:
 
-- Phoneme.ipynb: Classification of time series. Neuronal nets and random forests applied to the time and frequency domain respectively.
+- Phoneme.ipynb: Classification of time series. Neuronal nets and random forests applied to the time and frequency domain respectively. Data: 
+https://timeseriesclassification.com/description.php?Dataset=Phoneme.
 
 - Clouds_sentinel.ipynb: Data from the Sentinel-2 satellite. Comparison of the amount of clouds between two regions.
 
